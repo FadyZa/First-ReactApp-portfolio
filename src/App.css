@@ -1,0 +1,28 @@
+.bg-grad {
+  background: rgb(44, 47, 235);
+  background: linear-gradient(85deg, rgba(44, 47, 235, 1) 0%, rgba(69, 45, 220, 1) 38%, rgba(212, 32, 137, 1) 100%);
+}
+
+
+h1 {
+  font-size: 60px;
+}
+
+.grad-text {
+  background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.containerImg {
+  position: relative;
+  height: 75vw;
+  max-height: 27rem;
+}
+
+.profileImg {
+  position: absolute;
+  height: 85vw;
+  max-height: 30rem;
+  bottom: 0px;
+}
