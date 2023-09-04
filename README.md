@@ -4,7 +4,7 @@ Welcome to my very first React app! This project showcases a simple yet elegant 
 
 ## Demo 🌐
 
-Check out the live demo of the app [here](#).
+Check out the live demo of the app [here](https://fadyza.github.io/First-ReactApp-portfolio/).
 
 ## Features ✨
 
